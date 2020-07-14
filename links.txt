@@ -1,0 +1,33 @@
+Colab reference:
+https://github.com/Tony607/object_detection_demo
+
+
+Colab:
+https://colab.research.google.com/drive/1bTBTnT6j7MmhnLmDu38FwH0A3utkpZxj#scrollTo=CG5YUMdg1Po7
+
+
+tensorboard:
+http://0964c7ce.ngrok.io/#graphs&run=.
+
+
+github:
+https://github.com/vijaylaxmipujari/Object_detection
+
+
+Pi:
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+
+
+jupyter to py file:
+jupyter nbconvert --to script Video-Object-Detection(1).ipynb
+
+
+Videos:
+https://www.pexels.com/
+https://www.pexels.com/video/a-man-greeting-a-group-in-a-business-meeting-by-shaking-their-hands-3252424/
+
+
+
+
+
+microsoft.com//en-in/microsoft-365/microsoft-teams/group-chat-software
